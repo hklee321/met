@@ -1,0 +1,1 @@
+D:\MSGFPlus_v20230112\percolator-v3-06\bin\percolator.exe --only-psms --post-processing-tdc C:\Users\LHK\Documents\GitHub\met\target_decoy.pin -m C:\Users\LHK\Documents\GitHub\met\target.psms -M C:\Users\LHK\Documents\GitHub\met\decoy.psms
