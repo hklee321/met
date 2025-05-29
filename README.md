@@ -3,8 +3,8 @@
 This repository contains R Markdown scripts and data files for proteomics analysis.
 
 ## Files
-- `analysis.Rmd`: Main R Markdown script
-- `.mgf`, `.pin`, `.bat` files: Input data and scripts used in the pipeline
+- `mass_error_test.Rmd`: Main R Markdown script
+- `.mgf`, `.pin`, `.bat`, `.psms`, `.tsv` files: Input data and scripts used in the pipeline
 
 ## Getting Started
 The provided code is to demonstrate and provide a reproducible example data for method "Mass Error Test" in an academic journal, 
