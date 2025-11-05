@@ -9,7 +9,7 @@ This repository contains R Markdown scripts and data files for proteomics analys
 ## Getting Started
 The provided code is to demonstrate and provide a reproducible example data for method "Mass Error Test" in an academic journal, 
 "Distinguishing N-Terminal Methylation from Near-isobaric Modifications by Statistical Analysis of Mass Error Distributions of Fragment Ions",
-currently under revision in JPR.
+published in JPR https://doi.org/10.1021/acs.jproteome.4c01045.
 
 The example data is methylated BSA standard tryptic digest
 
